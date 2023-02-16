@@ -23,10 +23,10 @@ The text analyzer tool provides the following features:
 
 The project was created using the following technologies:
 
-React: A popular JavaScript library for building user interfaces.
-Bootstrap: A popular CSS framework for building responsive and mobile-first websites.
-HTML: The standard markup language for creating web pages.
-CSS: A stylesheet language used for describing the presentation of a document written in HTML.
+1. React: A popular JavaScript library for building user interfaces.
+2. Bootstrap: A popular CSS framework for building responsive and mobile-first websites.
+3. HTML: The standard markup language for creating web pages.
+4. CSS: A stylesheet language used for describing the presentation of a document written in HTML.
 
 #Contributions
 Contributions are welcome! If you find a bug or would like to contribute to the project, please create a pull request with your changes. Please ensure that your code is well-documented and adheres to the existing coding style.
