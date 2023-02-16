@@ -4,7 +4,7 @@ Texttutils-React.js is a web development project created using React, a popular 
 # Getting Started
 To get started with Texttutils-React.js, follow the steps below:
 
-1. Clone the repository to your local machine using git clone https://github.com/your-username/Texttutils-React.js.git.
+1. Clone the repository to your local machine using git clone https://github.com/PremanandPhuke/Texttutils-React.js.git.
 2. Install the dependencies by running npm install.
 3. Start the development server by running npm start.
 4. Open http://localhost:3000 to view it in the browser.
