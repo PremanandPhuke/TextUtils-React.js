@@ -34,3 +34,9 @@ Contributions are welcome! If you find a bug or would like to contribute to the 
 
 # Check Below link
 https://premanandphuke.github.io/TextUtils-React.js/
+
+---
+
+<p align=center>
+<em><b>Thank you for visiting  :)</em>
+</p>
